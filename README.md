@@ -22,10 +22,13 @@ The dataset consists of the following features:
 5. **Visualization**: Plot data points and the regression line.
 
 ### 🔹 Scatter Plot of Data
-![Scatter Plot](Capture d'écran 2025-02-07 144933.png)
+![Scatter Plot]
+<img width="416" alt="Capture d'écran 2025-02-07 144933" src="https://github.com/user-attachments/assets/d382858f-fb02-4112-8ff3-3dc9e030e3c4" />
+
 
 ### 🔹 Regression Line
-![Regression Line](Capture d'écran 2025-02-07 145019.png)
+![Regression Line]
+<img width="424" alt="Capture d'écran 2025-02-07 145019" src="https://github.com/user-attachments/assets/41cb5b73-713a-4361-b9c1-d2846cc161aa" />
 
 
 ## 📌 Results
